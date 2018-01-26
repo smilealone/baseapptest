@@ -1,0 +1,104 @@
+/* 选择器格式为：html #layui_layer_skin文件夹名stylecss，这一点非常重要 */
+html #layui_layer_skinptzstylecss {
+    display: none;
+    position: absolute;
+    width: 1989px;
+}
+
+body .layer-ext-ptz .layui-layer-title {
+    background-color: rgb(54, 65, 80);
+    height: 30px;
+    color: rgb(192, 200, 212);
+    line-height: 30px;
+    border-bottom: 1px solid rgb(61, 73, 87);
+}
+
+body .layer-ext-ptz .layui-layer-content {
+    background-color: rgb(54, 65, 80);
+    color: rgb(192, 200, 212);
+}
+
+body .layer-ext-ptz .layui-layer-ico {
+    background: url("close.png") no-repeat;
+}
+
+body .layer-ext-ptz .layui-layer-setwin {
+    top: 6px;
+    right: 10px;
+}
+
+#circle {
+    margin: 20px 0 20px 30px;
+    position: relative;
+    width: 164px;
+    height: 164px;
+    background: #888;
+    -moz-border-radius: 80px !important;
+    -webkit-border-radius: 80px !important;
+    border-radius: 80px !important;
+    border-color: #555;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+}
+
+#circle:before {
+    content: "";
+    position: absolute;
+    top: 45px;
+    left: 45px;
+    width: 66px;
+    height: 66px;
+    background: #888;
+    -moz-border-radius: 33px !important;
+    -webkit-border-radius: 33px !important;
+    border-radius: 33px !important;
+    border-color: #666;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+}
+
+.refresh {
+    position: absolute;
+    padding: 0 !important;
+    margin: 0 !important;
+    top: 48px;
+    left: 48px;
+    width: 60px;
+    height: 60px;
+    -moz-border-radius: 30px !important;
+    -webkit-border-radius: 30px !important;
+    border-radius: 30px !important;
+}
+
+.bb {
+    position: absolute;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 36px;
+    height: 36px;
+    -moz-border-radius: 18px !important;
+    -webkit-border-radius: 18px !important;
+    border-radius: 18px !important;
+}
+
+.txt-green {
+    color: green;
+}
+
+.txt-red {
+    color: red;
+}
+
+.txt-eee {
+    color: #888;
+}
+.txt-white{
+    color: #ffa;
+}
+.txt-white:hover{
+    color: #fff;
+}
+
+.td-center {
+    text-align: center !important;
+}

@@ -1,0 +1,16 @@
+.searchrIcorn{display:none;padding:10px;border:1px solid #d4d4d4;position: absolute;z-index: 998;background:#fff;-webkit-border-radius: 3px 0 3px 3px;
+-moz-border-radius:3px 0 3px 3px;border-radius:3px 0 3px 3px;}
+.searchrIcorn.form-horizontal .control-group{margin-bottom:10px;}
+.searchrIcorn.form-horizontal .control-label{width:60px;}
+.searchrIcorn.form-horizontal .controls{margin-left:75px;margin-right:10px;}
+
+.table-search{width:100%}
+.table-search th{font-weight:normal; text-align:right;padding-right:10px;line-height:25px;vertical-align: top;white-space: nowrap;}
+.table-search td{padding:0 30px 20px 0;vertical-align: top;white-space: nowrap;}
+.table-search tr:last-child td{padding-bottom:0}
+.table-search.wordWrap td{white-space: normal;}
+.table-search.narrow td{padding-bottom:10px;}
+
+.icon-moreTerms{background:url(../img/serch-icon-red.png) 3px -581px no-repeat; cursor:pointer;height:24px; width:21px;margin-top:0; position:relative;z-index:999;vertical-align: middle;}
+.icon-moreTerms:hover{background-position:3px -611px;}
+.icon-moreTerms.active{background:url(../img/serch-icon-red.png) left -675px no-repeat;}

@@ -1,0 +1,152 @@
+.page-title-bottom {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e7ecf1;
+}
+
+.content-title .btn, .content-title-bottom .btn {
+    border: 0;
+}
+
+.tr-selected {
+    background-color: #869aa9 !important;
+}
+
+.pop {
+    padding-top: 15px;
+}
+
+.tooltip {
+    z-index: 9999999999;
+}
+
+.tooltip-arrow-red {
+    border-right-color: #e73d4a !important;
+}
+
+.tooltip-inner-red {
+    background-color: #e73d4a;
+}
+
+.vali-error {
+    color: #fff;
+}
+
+.project {
+    margin-top: 10px;
+}
+
+.project ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.project-title {
+    display: inline;
+}
+
+.project-tools > a.btn {
+    background-color: transparent;
+    border-width: 0;
+    padding: 0;
+    color: #d36e38;
+}
+
+.project-body {
+    height: 260px;;
+    font-size: 14px !important;
+}
+
+.project-remark {
+    height: 190px;
+    text-indent: 2em;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.context-menu-icon-updated {
+    margin-left: 0;
+    padding-left: 8px;
+}
+
+.context-menu-icon-updated > span {
+    color: #2a6ae9;
+}
+
+.group-ul {
+    list-style: none;
+}
+
+.group-ul li {
+    float: left;
+    margin: 5px;
+    padding: 10px;
+    background-color: #e8e8e8;
+    min-width: 120px;
+    min-height: 40px;
+    cursor: default;;
+}
+
+.group-ul-li {
+    background-color: #C0EBEF !important;
+    min-width: 120px;
+    min-height: 80px;
+}
+
+.li-select {
+    background-color: #0078A8 !important;
+}
+
+#pin {
+    position: fixed;
+    margin-top: -10px;
+    margin-left: -5px;
+}
+
+.radio {
+    padding: 0 !important;
+}
+
+.radio > span {
+    margin-top: 5px !important;
+}
+
+td.display-right {
+    text-align: right;
+}
+
+.ztree * {
+    font-size: 16px;
+}
+
+.ztree li span {
+    line-height: 22px;
+}
+
+.ztree li a.curSelectedNode {
+    height: 20px;
+}
+
+td.td-right {
+    text-align: right;
+}
+
+td.record-desc:hover {
+    cursor: pointer;
+    background-color: #51b1e9 !important;
+}
+
+.unitCls {
+    font-size: 0.9em;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.unDoneCls {
+    color: rgb(255, 120, 72);
+}
+
+.doneCls {
+    color: rgb(0, 0, 0)
+}
+
+
